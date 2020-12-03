@@ -1,3 +1,5 @@
+//Credits to be given if you find this code useful
+
 #include "BluetoothSerial.h"  // including blutooth 
 #include <WiFi.h>  // including wifi
 #include "Adafruit_MQTT.h"  // including And calling ADAFRUIT, login https://io.adafruit.com/ here and create your triggers
